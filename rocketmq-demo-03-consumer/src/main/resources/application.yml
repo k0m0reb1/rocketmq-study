@@ -1,0 +1,7 @@
+server:
+    port: 8083
+
+rocketmq:
+    nameserver: 192.168.124.20:9876
+
+

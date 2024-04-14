@@ -1,0 +1,7 @@
+spring:
+    datasource:
+        driver-class-name: org.postgresql.Driver
+        url: jdbc:postgresql://192.169.124.20:15400:/studentdb
+        username: student
+        password: student@ustb2020
+
